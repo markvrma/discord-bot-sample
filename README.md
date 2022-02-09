@@ -1,3 +1,7 @@
+# Introduction
+
+This is a sample of a discord chat bot that was made collaboratively.
+
 # My Contributions 
 
 - In utils file 
@@ -13,7 +17,7 @@
   - I **solved a timeout API error** in `insult.js` which uses `./botFunctions/insult.js`
 
 - In botFunctions
-  - created and modified modules which were then used for bot commands  
+  - created and modified the files which were then used for bot commands  
 
 ### This was part of a Open Source Competition where I made contributions to multiple projects and secured second place
 ### https://www.linkedin.com/posts/aasf-iiitmg_github-opensource-gsoc-activity-6861640955703934976-VX43
