@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for SitePoint",
+  "engines": {
+    "node": "16.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Hiten Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "billboard-top-100": "^2.5.9",
+    "discord-music-player": "^8.2.0",
+    "discord-music-system": "^3.3.15",
+    "discord.js": "^13.2.0",
+    "dotenv": "^8.6.0",
+    "ffmpeg": "^0.0.4",
+    "html-entities": "^2.3.2",
+    "node-base64-image": "^2.0.3",
+    "node-fetch": "^2.6.5",
+    "nodemon": "^2.0.13",
+    "opusscript": "^0.0.8",
+    "reddit-image-fetcher": "^2.0.9",
+    "smartestchatbot": "^2.0.1",
+    "tenorjs": "^1.0.8"
+  }
+}
