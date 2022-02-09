@@ -2,6 +2,9 @@
 
 This is a sample of a discord chat bot that was made collaboratively.
 
+You can view all the contributions branch-wise at:
+https://github.com/markvrma/Discord-Meme-and-Music-Bot
+
 # My Contributions 
 
 - In utils file 
@@ -19,8 +22,11 @@ This is a sample of a discord chat bot that was made collaboratively.
 - In botFunctions
   - created and modified the files which were then used for bot commands  
 
+- I also made multiple formatting and beautifying commits
+
 ### This was part of a Open Source Competition where I made contributions to multiple projects and secured second place
 ### https://www.linkedin.com/posts/aasf-iiitmg_github-opensource-gsoc-activity-6861640955703934976-VX43
 
 
 ### You can view the entire repository on https://github.com/hitenSharm/Discord-Meme-and-Music-Bot/tree/development
+
